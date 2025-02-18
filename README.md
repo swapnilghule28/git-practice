@@ -1,2 +1,4 @@
 # git-practice
-this is for practice git and github
+this is for practice Git and GitHub.
+<br>
+I'm learning Git and GitHub.
